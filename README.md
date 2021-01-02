@@ -1,4 +1,5 @@
 # Stock-Price-Predictor
+![stonks meme](https://i.ytimg.com/vi/if-2M3K1tqk/maxresdefault.jpg)<br>
 ## Predicts the price of a single stock using LSTM (Long short-term memory)<br>
 The following model Predicts the price of any given stock (I have taken GOOGL) by using data from previous 3 years.<br>
 Of this 3 years of data, 60% is training set, 20% is dev set, and the rest is test set.<br>
